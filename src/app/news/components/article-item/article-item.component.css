@@ -1,0 +1,21 @@
+.article-card {
+  display: flex;
+  height: 100%;
+  border: 1px solid black;
+}
+
+.actions-section {
+  display: flex;
+}
+
+.action-button {
+  font-size: large;
+}
+
+.default-spacer {
+  flex: 1 1 auto;
+}
+
+img {
+  max-width: 100%;
+}
